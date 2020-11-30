@@ -1,0 +1,16 @@
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Database1.mdf
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\bin\Debug\Database1_log.ldf
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe.config
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.exe
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.pdb
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\bin\Debug\WindowsApp2.xml
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbprojAssemblyReference.cache
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.login.resources
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.Resources.resources
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.registration.resources
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.GenerateResource.cache
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.vbproj.CoreCompileInputs.cache
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.exe
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.xml
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.pdb
+C:\Users\Damla\source\repos\WindowsApp2\WindowsApp2\obj\Debug\WindowsApp2.main.resources
